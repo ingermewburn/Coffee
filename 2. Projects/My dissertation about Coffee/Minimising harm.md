@@ -1,0 +1,9 @@
+#ChattieG 
+#ethics
+In our research exploring satisfaction with coffee through interviews and social media analysis, we commit to prioritizing the welfare of our participants, ensuring their experience is not only safe but enriching. Informed consent will be a cornerstone of our methodology, guaranteeing participants are fully aware of the study’s scope, their involvement, and their rights, with the flexibility to withdraw at any point without repercussion. To safeguard anonymity and confidentiality, personal identifiers will be removed or altered, and all data will be securely stored to prevent unauthorized access. We acknowledge the sensitivity of data potentially shared in interviews or observed on social media and pledge to handle such information with the highest level of discretion and respect.
+
+Moreover, we are dedicated to minimizing any psychological discomfort participants might experience. Our team will be trained to detect and address signs of distress, ensuring interviews are conducted with sensitivity and empathy. Participants will also have the opportunity to disengage at any moment they feel uneasy.
+
+We aim to extend the benefits of participation beyond the mere contribution to research. Participants will be offered insights into our findings, providing them with a deeper understanding of the cultural significance of coffee and potentially enhancing their own coffee experiences. This study is designed not only to advance academic knowledge but also to enrich participants' appreciation and enjoyment of coffee, reflecting a holistic approach to research that values the contributions and experiences of its participants.
+
+By implementing these measures, we ensure our research adheres to the highest ethical standards, respecting the dignity, rights, and welfare of all involved, and underscoring our commitment to conducting research that is both ethically sound and socially beneficial.
